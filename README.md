@@ -1,0 +1,2 @@
+# mycloudjournal
+The MCJ website
